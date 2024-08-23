@@ -6,7 +6,3 @@ Contact <- "manningjbkk@gmail.com"
 Pronouns <- "dumb guy and idiot"
 fun_fact <- "This is my second career, I am also retired army"
 
-<!---
-Manningjbkk/Manningjbkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
